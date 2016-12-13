@@ -60,3 +60,9 @@ Compile and flash the above file using web IDE called https://build.particle.io 
 Files Required
 
 The above INO files contain the codes for the photons which need to be compiled before flashing, whereas the BIN files are the per-compiled and could be directly flashed on the photons.
+
+
+
+
+
+youtube link: https://youtu.be/Ra9XClivUCs
