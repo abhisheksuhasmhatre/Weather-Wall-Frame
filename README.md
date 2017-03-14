@@ -27,7 +27,10 @@ Refer the image above for circuit board connections.
 
 ## File:
 WeatherDataGetter.ino
-- Compile and flash the above file using web IDE called https://build.particle.io or flash the WeatherDataGetter.bin on the photon
+Compile and flash the above file using web IDE called 
+- https://build.particle.io 
+
+or flash the WeatherDataGetter.bin on the photon
 
 
 
